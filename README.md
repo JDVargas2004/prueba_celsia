@@ -108,11 +108,11 @@ Para el desarrollo de la prueba teórica, tendrás que escribir tus respuestas e
 
 2.2. ¿Qué mecanismos de seguridad incluirías en la aplicación para garantizar la protección del acceso a los datos?
 
-- RTA:
+- RTA:  Yo incuiria vpn para proteger el acceso a la informacion
 
   2.3. ¿Qué estrategia de escalabilidad recomendarías para la aplicación considerando que el crecimiento proyectado será de 1,000,000 de clientes por año?
 
-- RTA:
+- RTA: recomendaria optimizacion y limpieza de cache
 
   2.4. ¿Qué patrón o patrones de diseño recomendarías para esta solución y cómo se implementarían? (Justifique)
 
@@ -126,11 +126,25 @@ Para el desarrollo de la prueba teórica, tendrás que escribir tus respuestas e
 
 3.1. Explica la diferencia entre un router y un switch. ¿Cuándo usarías cada uno?
 
+R/ El router es un desositivo para conectar redes diferentes mientras que el switch conecta redes locales por ejemplo el router se usa conectando la red de nuestra casa a internet y el switch lo usaria para conectar varios dispositivos a una red y asi compartir informacion
+
 3.2. Describe las siete capas del modelo OSI y menciona brevemente la función principal de cada una
+
+R/ 1- capa fisica que esta compuesta por cables y otros elementos.
+    2- capa de transmision de datos, esta es la que transmite  la informacion informacion
+    3- capa de red, esta es la que determina la ruta de la informacion
+    4- capa de transporte, esta es la que asegura la llegada de la informacion
+    5- capa de sesion
+    6- capa de presentacion, se ecarga de transformar la informacion para que la red la pueda manejar
+    7. capa de aplcacon, esta se enarga de darte las interfces
 
 3.3. Explica las diferencias entre los protocolos TCP y UDP. Dar un ejemplo de cuándo usarías cada uno?
 
+R/ basicamente la diferenca que tienen es que el TCP establece una coneccion para que la infomacion llegue en orden mientras que l UDP se envian sin asrgurare de que lleguen en orden
+
 3.4. ¿Qué es una máscara de subred y cómo se utiliza para dividir una red en subredes más pequeñas?
+
+R/ una mascara de subred es para dividir la red princiapal dereminando el tamaño de la otras subredes
 
 3.5. ¿Puedes mencionar algunos protocolos de enrutamiento dinámico y explicar brevemente cómo funcionan?
 
@@ -138,15 +152,19 @@ Para el desarrollo de la prueba teórica, tendrás que escribir tus respuestas e
 
 4.1. ¿En qué grupos de procesos de dirección de proyectos es creado un presupuesto detallado del proyecto?
 
+R/ en la fase de planifcacion
+
 4.2. ¿En qué grupo de procesos de la dirección de proyectos es creada el acta de constitución del proyecto?
 
-4.3. El equipo de proyecto acaba de completar el primer cronograma y presupuesto del proyecto. La próxima cosa a hacer es:********\_********
+4.3. El equipo de proyecto acaba de completar el primer cronograma y presupuesto del proyecto. La próxima cosa a hacer es:
 
-4.4. Un primer cronograma del proyecto puede ser creado solamente después de crear: **********\_\_\_\_**********
+4.4. Un primer cronograma del proyecto puede ser creado solamente después de crear: el alcance del proyecto
 
-4.5. Una persona que debe estar al mando durante la planificación de la gestión del proyecto es:************\_\_************
+4.5. Una persona que debe estar al mando durante la planificación de la gestión del proyecto es:director del proyecto 
 
-4.6. ¿Cuál de son las entradas del grupo de procesos de inicio de un proyecto?
+4.6. ¿Cuál de son las entradas del grupo de procesos de inicio de un proyecto? 
+
+R/ los requerimientos
 
 4.7. El patrocinador del proyecto acaba de aprobar el acta de constitución del proyecto, ¿cuál es la próxima cosa a hacer?
 
